@@ -53,4 +53,4 @@ async def ban(ctx, member:discord.user=None, reason=None):
     await ctx.guild.ban(member, reason=reason)
   
 
-client.run("NzczMTAzMDUxMjc5OTU4MDE2.X6EWUg.tcDfntuGAFTHl_ORxSiWNYwgtDc")
+client.run("")
